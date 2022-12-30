@@ -1,2 +1,1 @@
-# social-media-api
-# social-media-nodejs-api
+# React + Node.js Social Media Web app
